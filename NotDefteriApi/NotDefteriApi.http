@@ -1,0 +1,6 @@
+@NotDefteriApi_HostAddress = http://localhost:5074
+
+GET {{NotDefteriApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
